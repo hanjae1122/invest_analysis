@@ -1,0 +1,24 @@
+  PERMNO    TICKER          DATE    COMNAM                              TICKER
+
+   16861    BAR         20170831    GRANITESHARES GOLD TRUST            BAR     
+   91129    DBC         20180604    INVESCO D B COMM IDX TRK FD         DBC     
+   83225    EWJ         20000522    ISHARES INC                         EWJ     
+   90448    GLD         20080521    SPDR GOLD TRUST                     GLD     
+   91878    GXC         20070801    SPDR INDEX SHARES FUNDS             GXC     
+   13613    IEMG        20121022    ISHARES INC                         IEMG    
+   92026    ITE         20070801    SPDR SERIES TRUST                   ITE     
+   15076    PDBC        20180604    INVESCO ACT MANAGED E T COMM FD     PDBC    
+   93112    SCHB        20091103    SCHWAB STRATEGIC TRUST              SCHB    
+   93219    SCHE        20100114    SCHWAB STRATEGIC TRUST              SCHE    
+   12065    SCHP        20100806    SCHWAB STRATEGIC TRUST              SCHP    
+   12059    SCHR        20100806    SCHWAB STRATEGIC TRUST              SCHR    
+   89959    TIP         20031205    ISHARES TRUST                       TIP     
+   89468    TLT         20020726    ISHARES TRUST                       TLT     
+   93218    UST         20100121    PROSHARES TRUST                     UST     
+   90000    VBR         20040130    VANGUARD INDEX FUNDS                VBR     
+   92187    VEA         20070726    VANGUARD TAX MANAGED FUNDS          VEA     
+   91132    VGK         20050310    VANGUARD INTL EQUITY INDEX FUNDS    VGK     
+   91423    VOE         20060824    VANGUARD INDEX FUNDS                VOE     
+   90878    VTI         20010531    VANGUARD INDEX FUNDS                VTI     
+   90004    VTV         20040130    VANGUARD INDEX FUNDS                VTV     
+   91130    VWO         20050310    VANGUARD INTL EQUITY INDEX FUNDS    VWO     
